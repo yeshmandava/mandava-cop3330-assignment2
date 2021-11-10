@@ -35,6 +35,7 @@ public class SearchRecords
             if(SortMap.get(key).lastName.substring(0,str.length()).equals(str) || SortMap.get(key).firstName.substring(0,str.length()).equals(str)) {
                 System.out.print(SortMap.get(key));
             }
+            //Yooo whats upo this is new edit
         }
     }
 }
